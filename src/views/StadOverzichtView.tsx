@@ -2146,6 +2146,15 @@ const MARKTCAP_STEDEN: MarktCapStad[] = [
     defaultPrijs: 1_200,
     concurrenten: 'BESPARK, Tétris, WE MAKE, Stone Projects, Cerius',
   },
+  {
+    naam:         'Utrecht',
+    leegstandM2:  165_591,
+    partijen:     6,
+    penetratie:   0.40,
+    dittM2:       11_039,
+    defaultPrijs: 900,
+    concurrenten: '',
+  },
 ]
 
 function fmEuro(n: number) {
@@ -2426,6 +2435,7 @@ function MarketCapPanel({ partijOverrides, setPartijOverrides }: { partijOverrid
     Eindhoven: '#ff7f50',
     Rotterdam: '#5bb8c4',
     Amsterdam: '#8fc4a0',
+    Utrecht:   '#a78bfa',
   }
 
   return (
