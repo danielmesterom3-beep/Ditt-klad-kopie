@@ -375,22 +375,6 @@ const rotterdam: Gebied[] = [
         categorie: 'inrichting',
         inzicht: 'Fit-out bij hoogwaardige kantoren: Varo Energy realiseerde ~€1.500/m² (2–3 jaar geleden, nu richting €2.000/m²). Haven- en industriebedrijven hanteren aanzienlijk lager budget. Installaties zijn vaak gebonden aan de huisinstallateur van het gebouw — dit beperkt de keuzevrijheid van inrichtingspartijen bij technische aanpassingen.',
       },
-      {
-        id: 'rc-inz-08',
-        bron: 'Marktonderzoek',
-        organisatie: 'Ditt. Officemakers',
-        datum: '2026-06-01',
-        categorie: 'marktdynamiek',
-        inzicht: 'Actieve turn-key aanbieders Rotterdam: Briq RE (Plein Kantoren/Stadhuisplein, Aelbrechtskade, Cool 63 — 3.750 m² beschikbaar); STK Totaal Projecten (Sound of Data, Karl Weisbadstraat); Kato Projecten (Smallegange Advocaten, De Coopvaert); Leitmotiv (Port City Waalhaven voor Arntz van Helden). Losse units: Westerlaantoren 480 m², Hoofdweg 66 all-in turnkey, Vasteland 10-40 (97 m² v.v.o.), Hofpoort 500 m². Den Hartogh Rotterdam: 24.000 m² groot object.',
-      },
-      {
-        id: 'rc-inz-09',
-        bron: 'Marktonderzoek',
-        organisatie: 'Ditt. Officemakers',
-        datum: '2026-06-01',
-        categorie: 'inrichting',
-        inzicht: 'Rotterdam installatieketen: A. De Jong Groep (installaties HNK Alex); Nornorm (meubilairabonnement, actief bij LyondellBasell, samenwerking EDGE Next); dEP de Sfeerontwerpers (sfeer/interieuradvies). Bouw: De Vries en Verburg (EDGE Coolsingel), Arslan Aannemers (afbouw), BEUK (sloop). Design concurrenten: Leitmotiv, Desk, Planet Office, Sprank, STK Totaal Projecten, Kato Projecten, Kantorice (projectinrichter zonder eigen ontwerp).',
-      },
     ],
     partijen: [
       { id: 'rc-01', naam: '', type: 'eigenaar', contactStatus: 'koud', locatieKlasse: null, pitch: '', followUp: '', suggestieProduct: '' },
