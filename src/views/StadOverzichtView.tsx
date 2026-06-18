@@ -1953,6 +1953,41 @@ const VELDONDERZOEK_THEMAS: VeldonderzoekThema[] = [
       },
     ],
   },
+  {
+    id: 'concurrenten',
+    titel: 'Concurrenten & marktpartijen per stad',
+    beschrijving: 'Overzicht van Design- en Build-partijen actief in de doelregio\'s. Design = zelfde domein als Ditt (inrichting, ontwerp, D&B). Build = aannemers, installateurs, slopers.',
+    inzichten: [
+      {
+        toelichting: 'Rotterdam — Design (directe concurrenten): Leitmotiv (D&B, Port City/Waalhaven), Desk (vergelijkbaar met Ditt, meerdere steden), Planet Office (kantoorconcepten), Sprank (kleinere projecten), STK Totaal Projecten (D&B, Sound of Data), Kato Projecten (D&B, Smallegange Advocaten/De Coopvaert), Nornorm (meubilairabonnement, EDGE Next partner), dEP de Sfeerontwerpers (interieuradvies), Kantorice (projectinrichter — geen ontwerp).',
+        persoon: 'Marktonderzoek',
+        organisatie: 'Ditt. Officemakers',
+        datum: '01/06/26',
+        stad: 'rotterdam',
+      },
+      {
+        toelichting: 'Rotterdam — Build (geen directe concurrenten): A. De Jong Groep (installaties, HNK Alex), De Vries en Verburg (bouw, EDGE Coolsingel), Arslan Aannemers (afbouw), BEUK (sloop). Installateurs zijn vaak gebonden aan de huisinstallateur van het gebouw — dit beperkt keuzevrijheid inrichtingspartijen bij technische aanpassingen.',
+        persoon: 'Marktonderzoek',
+        organisatie: 'Ditt. Officemakers',
+        datum: '01/06/26',
+        stad: 'rotterdam',
+      },
+      {
+        toelichting: 'Eindhoven — Design (directe concurrenten): Ininterieurs (erg actief Strijp-S), VB Vastgoedinrichter, Den Bak Projecten, PGA, Markt Projecten, Totaal Kantoorinrichting, HAL 2, Ahrend (kantoormeubelen/merk), BuroBas (interieurarchitectuur kantoor/zorg/onderwijs). Pinx Design (horeca/wonen) en George & Harrison (brand/identity) zijn geen directe kantoorinrichtingsconcurrenten.',
+        persoon: 'Marktonderzoek',
+        organisatie: 'Ditt. Officemakers',
+        datum: '01/06/26',
+        stad: 'eindhoven',
+      },
+      {
+        toelichting: 'Eindhoven — Build (geen directe concurrenten): Stam + De Koning Bouw, Afbouw AMB, To Build, Volkerswessels (grootschalig), KWS Infra. Braintown (asset management, Michaël Smeeman) en Profinn (vastgoedbeheer ~200.000 m²) zijn nauw verbonden eigenaarspartijen gevestigd in De Witte Dame — niet Build maar relevante eigenaarsingang.',
+        persoon: 'Marktonderzoek',
+        organisatie: 'Ditt. Officemakers',
+        datum: '01/06/26',
+        stad: 'eindhoven',
+      },
+    ],
+  },
 ]
 
 const VELDONDERZOEK_STAD_BADGE: Record<string, { label: string; bg: string; text: string; border: string }> = {

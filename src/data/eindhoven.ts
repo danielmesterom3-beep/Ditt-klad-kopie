@@ -232,6 +232,22 @@ const eindhoven: Gebied[] = [
         categorie: 'marktdynamiek',
         inzicht: 'Bekende inrichtingspartijen actief in de Eindhovense kantoormarkt: VB Vastgoedinrichter, Den Bak Projecten, PGA, Markt Projecten, Totaal Kantoorinrichting en HAL 2. Dit zijn de directe concurrenten van Ditt in het MKB-segment.',
       },
+      {
+        id: 'fell-inz-06',
+        bron: 'Marktonderzoek',
+        organisatie: 'Ditt. Officemakers',
+        datum: '2026-06-01',
+        categorie: 'acquisitie',
+        inzicht: 'Braintown (asset management, opgericht 2017 door Michaël Smeeman) en Profinn (vastgoedbeheer ~200.000 m² kantoorvastgoed regio EHV) zijn nauw verbonden Eindhovense partijen, beide gevestigd in De Witte Dame op Emmasingel. Braintown stuurt op herontwikkeling (o.a. Flight Forum); Profinn beheert operationeel. Profinn vergelijkbaar met Hoff. Directe ingang via Braintown opent toegang tot grote Eindhovense kantoorportefeuille.',
+      },
+      {
+        id: 'fell-inz-07',
+        bron: 'Marktonderzoek',
+        organisatie: 'Ditt. Officemakers',
+        datum: '2026-06-01',
+        categorie: 'marktdynamiek',
+        inzicht: 'Eindhoven design concurrenten uitgebreid: Ininterieurs (erg actief Strijp-S), Ahrend (kantoormeubelen), BuroBas (interieurarchitectuur kantoor/zorg/onderwijs — directe concurrent). Bouwaannemers: Stam + De Koning Bouw, Afbouw AMB, To Build, Volkerswessels (groot), KWS Infra. George & Harrison (brand/identity) en Pinx Design (horeca/wonen) zijn geen directe concurrenten voor kantooropdrachten.',
+      },
     ],
     partijen: [
       { id: 'cent-01', naam: '', type: 'eigenaar', contactStatus: 'koud', locatieKlasse: null, pitch: '', followUp: '', suggestieProduct: '' },
